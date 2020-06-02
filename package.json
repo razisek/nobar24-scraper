@@ -10,7 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "chalk": "^4.0.0",
     "cheerio": "^1.0.0-rc.3",
     "cli-spinner": "^0.2.10",
     "node-fetch": "^2.6.0",
